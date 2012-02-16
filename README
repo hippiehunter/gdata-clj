@@ -1,10 +1,11 @@
 # gdata-clj
 
-FIXME: write description
+Wrapper for the Google Calendar API and the gdata Contacts API
 
 ## Usage
 
-FIXME: write
+see tests
+
 
 ## License
 
